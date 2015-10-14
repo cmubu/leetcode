@@ -4,6 +4,10 @@ Simple responstory for leetcode
 
 The schedule will be as followed:
 
+### Oct 14, 2015
+[] [contains duplicate](https://leetcode.com/problems/contains-duplicate/)
+### Oct 13, 2015
+[] [remove linked list elem](https://leetcode.com/problems/remove-linked-list-elements/)
 
 ### Oct 12, 2015
 [] [two sum](https://oj.leetcode.com/problems/two-sum/)   
